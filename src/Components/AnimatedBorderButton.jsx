@@ -3,7 +3,7 @@ import { Download } from "lucide-react";
 export const AnimatedBorderButton = ({ children }) => {
   return (
     <button
-      className="relative bg-transparent border border-border 
+      className="relative bg-transparent border border-bordernode -
         text-foreground hover:border-primary/50 transition-all 
         duration-1000 focus:outline-none focus-visible:ring-2 
         focus-visible:ring-primary focus-visible:ring-offset-2 
